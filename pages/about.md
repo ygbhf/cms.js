@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 我的 独立世界
+title: 我的独立世界
 ---
 
 Hi, I'm YJK, Welcome to my Independent World, Please follow me on <span class="sup" data-text="@tayuo">[Weibo](http://weibo.com/tayuo)</span> / [Twitter](https://twitter.com/tayuo) / [Instagram](http://instagram.com/tayuo) .
